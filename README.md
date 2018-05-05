@@ -1,4 +1,4 @@
-# synthezator
+# PySpark Synthezator
 
 Light synthetic data generator for pyspark.
 
